@@ -1,0 +1,7 @@
+D:\#C\C-Sharp7\C-Sharp7\IsExpression\bin\Debug\IsExpression.exe.config
+D:\#C\C-Sharp7\C-Sharp7\IsExpression\bin\Debug\IsExpression.exe
+D:\#C\C-Sharp7\C-Sharp7\IsExpression\bin\Debug\IsExpression.pdb
+D:\#C\C-Sharp7\C-Sharp7\IsExpression\obj\Debug\IsExpression.csproj.AssemblyReference.cache
+D:\#C\C-Sharp7\C-Sharp7\IsExpression\obj\Debug\IsExpression.csproj.CoreCompileInputs.cache
+D:\#C\C-Sharp7\C-Sharp7\IsExpression\obj\Debug\IsExpression.exe
+D:\#C\C-Sharp7\C-Sharp7\IsExpression\obj\Debug\IsExpression.pdb
