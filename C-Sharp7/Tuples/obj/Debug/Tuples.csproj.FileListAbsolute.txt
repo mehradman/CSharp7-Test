@@ -1,0 +1,7 @@
+D:\#C\C-Sharp7\C-Sharp7\Tuples\bin\Debug\Tuples.exe.config
+D:\#C\C-Sharp7\C-Sharp7\Tuples\bin\Debug\Tuples.exe
+D:\#C\C-Sharp7\C-Sharp7\Tuples\bin\Debug\Tuples.pdb
+D:\#C\C-Sharp7\C-Sharp7\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+D:\#C\C-Sharp7\C-Sharp7\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+D:\#C\C-Sharp7\C-Sharp7\Tuples\obj\Debug\Tuples.exe
+D:\#C\C-Sharp7\C-Sharp7\Tuples\obj\Debug\Tuples.pdb
