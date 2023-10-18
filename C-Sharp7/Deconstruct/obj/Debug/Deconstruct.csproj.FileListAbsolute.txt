@@ -1,0 +1,7 @@
+D:\#C\C-Sharp7\C-Sharp7\Deconstruct\bin\Debug\Deconstruct.exe.config
+D:\#C\C-Sharp7\C-Sharp7\Deconstruct\bin\Debug\Deconstruct.exe
+D:\#C\C-Sharp7\C-Sharp7\Deconstruct\bin\Debug\Deconstruct.pdb
+D:\#C\C-Sharp7\C-Sharp7\Deconstruct\obj\Debug\Deconstruct.csproj.AssemblyReference.cache
+D:\#C\C-Sharp7\C-Sharp7\Deconstruct\obj\Debug\Deconstruct.csproj.CoreCompileInputs.cache
+D:\#C\C-Sharp7\C-Sharp7\Deconstruct\obj\Debug\Deconstruct.exe
+D:\#C\C-Sharp7\C-Sharp7\Deconstruct\obj\Debug\Deconstruct.pdb
