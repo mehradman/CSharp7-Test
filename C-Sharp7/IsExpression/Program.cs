@@ -17,6 +17,35 @@ namespace IsExpression
                 Console.WriteLine($"Name : {p.Name} Family : {p.Family} Age : {p.Age}");
             }
 
+            switch (pc)
+            {
+                case Person p2 when (p2.Age > 20):
+                    {
+                        Console.WriteLine($"Name Is : {p2.Name} ");
+                        break;
+                    }
+                case Person p2 when (p2.Age > 40):
+                    {
+                        Console.WriteLine($"{p2.Name} is old!");
+                        break;
+                    }
+                case PersonCar car when (car.CarName == "Pride"):
+                    {
+                        Console.WriteLine($"Pride ");
+                        break;
+                    }
+                default:
+                    {
+                        Console.WriteLine("Not Found");
+                        break;
+                    }
+                case null:
+                    {
+                        Console.WriteLine("Is Null");
+                        break;
+                    }
+            }
+
             Console.ReadKey();
         }
     }
